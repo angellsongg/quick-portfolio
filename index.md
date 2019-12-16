@@ -21,7 +21,7 @@
 
 ---
 ### Video Masyarakat (Kepopuleran Youtube Pada Anak Zaman Now)
-<video width="320" height="240" controls>
+<video width="480" height="400" controls>
   <source src="SISMUL (convert-video-online.com).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
