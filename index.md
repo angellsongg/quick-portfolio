@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### TOXIC
 
 [TOXIC](/sample_page)
 <img src="images/toxic1.png?raw=true"/>
