@@ -4,7 +4,6 @@
 
 ### TOXIC
 
-[TOXIC](/sample_page)
 <img src="images/toxic1.png?raw=true"/>
 <img src="images/toxic2.png?raw=true"/>
 <img src="images/toxic3.png?raw=true"/>
@@ -13,7 +12,7 @@
 <img src="images/toxic6.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### BACKSHOP
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
