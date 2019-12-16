@@ -13,7 +13,11 @@
 
 ---
 ### BACKSHOP
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/backshop1.png?raw=true"/>
+<img src="images/backshop2.png?raw=true"/>
+<img src="images/backshop3.png?raw=true"/>
+<img src="images/backshop4.png?raw=true"/>
+<img src="images/backshop5.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -35,5 +39,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
