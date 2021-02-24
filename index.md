@@ -2,7 +2,7 @@
 
 
 ### Video Hasil Pendanaan PKM 2020 (Ensiklopedia Geofisika Berbasis Augmented Reality)
-- [GEO-PSC](https://youtu.be/T8bpsG4WPnI)
+- Watch on Youtube [GEO-PSC](https://youtu.be/T8bpsG4WPnI)
 
 ### TOXIC
 
